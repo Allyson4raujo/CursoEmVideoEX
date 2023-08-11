@@ -1,4 +1,6 @@
 """
+REVISAR EX(84)
+
 - Len() Em uma string ela retorna a quantidade de caracteres que possui, ou seja, o comprimento. Sintaxe: len(frase)
 - Count() Retorna a quantidade de vezes que um mesmo elemento está contido numa lista. Sintaxe: frase.count('a')
 outra possibilidade é usar o count com fatiamento por exemplo: frase.count('a',0,10)(buscando o 'a' de 0 até 10)
