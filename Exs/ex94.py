@@ -31,5 +31,3 @@ print(f'\nD)  Lista de pessoas  que estão acima da média: ')
 for i in dados:
     if i['idade'] > media:
         print(f'     Nome = {i["nome"]}; sexo = {i["sexo"]}; Idade = {i["idade"]};')
-
-

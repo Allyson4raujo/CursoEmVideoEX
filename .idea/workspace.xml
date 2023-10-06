@@ -2,23 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9793c92c-ce2a-4b29-ba24-46c76fb66f22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exs/ex80.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex81.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex82.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex83.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex84.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex85.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex86.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex87.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex88.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex89.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex90.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex91.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex92.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex93.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exs/ex94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex107/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex107/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex108/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex109/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex109/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex110/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex110/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex111/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex111/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex111/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex111/utilidadescev/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex111/utilidadescev/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex115a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex95.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exs/ex99.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comandos.py" beforeDir="false" afterPath="$PROJECT_DIR$/comandos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exs/ex94.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exs/ex94.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comandos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exs/comandos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -49,12 +65,23 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/allys/PycharmProjects/CursoEmVideoEX/Exs/ex111&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ex94">
-    <configuration name="ex90" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\allys\PycharmProjects\CursoEmVideoEX\Exs\ex111" />
+      <recent name="C:\Users\allys\PycharmProjects\CursoEmVideoEX\Exs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\allys\PycharmProjects\CursoEmVideoEX\Exs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex114">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exs/ex111/utilidadescev/dado" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex90.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex111/utilidadescev/dado/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex91" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exs/ex111/utilidadescev/moeda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex91.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex111/utilidadescev/moeda/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex92" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex92.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex113.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex93" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex93.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex114.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex94" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideoEX" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exs/ex110" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex94.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exs/ex110/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex94" />
-        <item itemvalue="Python.ex93" />
-        <item itemvalue="Python.ex92" />
-        <item itemvalue="Python.ex91" />
-        <item itemvalue="Python.ex90" />
+        <item itemvalue="Python.ex114" />
+        <item itemvalue="Python.ex113" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.teste (2)" />
       </list>
     </recent_temporary>
   </component>

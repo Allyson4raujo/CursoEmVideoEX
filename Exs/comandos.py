@@ -18,3 +18,9 @@ o find pode ser ultilizado com letra ou com uma palavra itneira. Caso ele não e
 - join() Junta todos os elemttos. Sintaxe: join(frase) pode ser ultilizado da seguinte forma: '-'.join(frase)
 ele vai juntar as palavras e na junção colocar esse ('-' traço) pode ser feito com espaço:
 """
+# .center(30) -> centraliza a str em 30 caracter
+
+# Simplificação if com else=> return valor if c is False else real(valor) ==>
+#                                  retorna a variavel(valor) se contador(c) é falso senão-se ->funçãoreal(valor)
+
+#\t  =>    tabulação do print
