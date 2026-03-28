@@ -1,2 +1,2 @@
 # CursoEmVideoEX
-refazendo exs do curso em vídeo.
+exs do curso em vídeo.
